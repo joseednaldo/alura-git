@@ -1,0 +1,2 @@
+Install-Package Xamarin.Forms -Version 4.2.0.778463
+Install-Package Xamarin.Forms.Visual.Material -Version 3.6.0.220655
